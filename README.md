@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedakbarkamal
-- 👀 I’m interested in Webdevelopemnt 
+- 👀 I’m interested in Webdevelopment 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me akbar.kamalotb@gmail.com
 - ⚡ Meme : I still can't center a div 
