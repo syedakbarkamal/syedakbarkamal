@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @syedakbarkamal
-- 👀 I’m interested in Webdevelopment 
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me akbar.kamalotb@gmail.com
-- ⚡ Meme : I still can't center a div 
+<div align="center">
 
-<!---
-Hi there, I'm Syed Akber Kamal, a web developer, and I run a company called OTB Advertising LLC. 
-I'm eager to expand and develop new solutions that contribute to making the world a better place✔🎁.
---->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://youtube.com/@YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+## 👍 Favorites
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,unity,java,nodejs,kubernetes,express,mongodb,postgres,helm,terraform,nginx,linux,ubuntu,cs,js,selenium,cpp,python,go" />
+</p>
